@@ -1,0 +1,6 @@
+@material_do_ze_HostAddress = http://localhost:5151
+
+GET {{material_do_ze_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

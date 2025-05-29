@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\material-do-ze.props" />
+</Project>
