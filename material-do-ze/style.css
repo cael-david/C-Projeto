@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 30px;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+#material-list, #add-material {
+    background: #fff;
+    border-radius: 8px;
+    padding: 18px 24px;
+    margin: 20px auto;
+    max-width: 400px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+label {
+    display: block;
+    margin-top: 15px;
+    color: #555;
+}
+input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button {
+    margin-top: 18px;
+    width: 100%;
+    padding: 10px;
+    background-color: #3a7bd5;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+button:hover {
+    background: #28527a;
+}
+#mensagem {
+    margin-top: 12px;
+    font-size: 0.98em;
+}
+ul#materiais {
+    list-style: none;
+    padding-left: 0;
+}
+ul#materiais li {
+    padding: 7px 0;
+    border-bottom: 1px solid #eee;
+}
+.valor {
+    color: #008000;
+    font-weight: bold;
+    margin-left: 10px;
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\material-do-ze\\material-do-ze\\material-do-ze.csproj": {}
+    "C:\\Users\\Cael David\\Documents\\GitHub\\ApiEstoqueDoZE\\material-do-ze\\material-do-ze.csproj": {}
   },
   "projects": {
-    "D:\\material-do-ze\\material-do-ze\\material-do-ze.csproj": {
+    "C:\\Users\\Cael David\\Documents\\GitHub\\ApiEstoqueDoZE\\material-do-ze\\material-do-ze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\material-do-ze\\material-do-ze\\material-do-ze.csproj",
+        "projectUniqueName": "C:\\Users\\Cael David\\Documents\\GitHub\\ApiEstoqueDoZE\\material-do-ze\\material-do-ze.csproj",
         "projectName": "material-do-ze",
-        "projectPath": "D:\\material-do-ze\\material-do-ze\\material-do-ze.csproj",
-        "packagesPath": "C:\\Users\\EDSONVALERIOVELOSO\\.nuget\\packages\\",
-        "outputPath": "D:\\material-do-ze\\material-do-ze\\obj\\",
+        "projectPath": "C:\\Users\\Cael David\\Documents\\GitHub\\ApiEstoqueDoZE\\material-do-ze\\material-do-ze.csproj",
+        "packagesPath": "C:\\Users\\Cael David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cael David\\Documents\\GitHub\\ApiEstoqueDoZE\\material-do-ze\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EDSONVALERIOVELOSO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Cael David\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
